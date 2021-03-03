@@ -1,0 +1,11 @@
+C:\Users\rmart\source\repos\Retiros\Retiros\bin\Debug\netcoreapp2.0\Retiros.deps.json
+C:\Users\rmart\source\repos\Retiros\Retiros\bin\Debug\netcoreapp2.0\Retiros.runtimeconfig.json
+C:\Users\rmart\source\repos\Retiros\Retiros\bin\Debug\netcoreapp2.0\Retiros.runtimeconfig.dev.json
+C:\Users\rmart\source\repos\Retiros\Retiros\bin\Debug\netcoreapp2.0\Retiros.dll
+C:\Users\rmart\source\repos\Retiros\Retiros\bin\Debug\netcoreapp2.0\Retiros.pdb
+C:\Users\rmart\source\repos\Retiros\Retiros\obj\Debug\netcoreapp2.0\Retiros.csprojResolveAssemblyReference.cache
+C:\Users\rmart\source\repos\Retiros\Retiros\obj\Debug\netcoreapp2.0\Retiros.csproj.CoreCompileInputs.cache
+C:\Users\rmart\source\repos\Retiros\Retiros\obj\Debug\netcoreapp2.0\Retiros.AssemblyInfoInputs.cache
+C:\Users\rmart\source\repos\Retiros\Retiros\obj\Debug\netcoreapp2.0\Retiros.AssemblyInfo.cs
+C:\Users\rmart\source\repos\Retiros\Retiros\obj\Debug\netcoreapp2.0\Retiros.dll
+C:\Users\rmart\source\repos\Retiros\Retiros\obj\Debug\netcoreapp2.0\Retiros.pdb
